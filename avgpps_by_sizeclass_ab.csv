@@ -1,0 +1,368 @@
+City,Class Size,Price Per Sqft
+Acme,Medium,443.29
+Airdrie,Large,370
+Airdrie,Medium,372.34
+Airdrie,Small,503.68
+Anzac,Large,365.26
+Anzac,Medium,292.58
+Athabasca,Medium,209.08
+Athabasca,Small,138.61
+Balzac,Large,388.62
+Banff,Large,951.52
+Banff,Medium,742.75
+Barnwell,Large,255.77
+Bassano,Medium,85.29
+Beaumont,Large,308.8
+Beaverlodge,Large,472.65
+Beaverlodge,Medium,190.63
+Bentley,Medium,228.96
+Berwyn,Large,150.66
+Berwyn,Medium,105.19
+Bezanson,Large,317.34
+Bindloss,Large,666.63
+Birchcliff,Large,279.17
+Birchcliff,Medium,1112.8
+Blackfalds,Large,344.9
+Blackfalds,Medium,326.43
+Blairmore,Large,256.23
+Bluesky,Medium,141.57
+Bow Island,Medium,373.45
+Bowden,Medium,195.68
+Bragg Creek,Large,569.86
+Brooks,Medium,362.26
+Brooks,Small,287.35
+Buck Lake,Small,976.56
+Burdett,Medium,416.25
+Calgary,Large,496.57
+Calgary,Medium,487.49
+Calgary,Small,522.72
+Calmar,Large,321.69
+Camrose,Large,297.02
+Camrose,Medium,298.24
+Camrose,Small,203.95
+Canmore,Large,1140.22
+Canmore,Medium,970.72
+Canmore,Small,1123.63
+Carbon,Medium,222.15
+Cardston,Large,115.02
+Cardston,Medium,269.25
+Carstairs,Large,276.15
+Carstairs,Medium,374.55
+Castor,Medium,165.02
+Chestermere,Large,382.16
+Chestermere,Medium,411.71
+Clairmont,Large,240.53
+Clairmont,Medium,267.97
+Clandonald,Medium,130.11
+Claresholm,Large,318.11
+Claresholm,Medium,278.83
+Clive,Medium,321.23
+Coaldale,Large,333.86
+Coaldale,Medium,241.75
+Coalhurst,Medium,264.97
+Cochrane,Large,373.09
+Cochrane,Medium,412.65
+Cochrane,Small,656.36
+Cold Lake,Large,199.59
+Cold Lake,Medium,90.21
+Coleman,Medium,442.42
+Colinton,Medium,176.02
+Conklin,Medium,409.65
+Consort,Large,152.38
+Coronation,Medium,113.35
+Coutts,Medium,113.01
+Crossfield,Large,326.36
+Crossfield,Medium,391
+Crossfield,Small,276.1
+Daysland,Medium,150.48
+De Winton,Large,653.73
+Delacour,Large,598.24
+Delburne,Medium,189.06
+Desert Blume,Large,483.89
+Dewberry,Small,85.56
+Diamond Valley,Medium,488.2
+Didsbury,Large,292.67
+Didsbury,Medium,418.92
+Drayton Valley,Large,313.95
+Drumheller,Large,220.07
+Drumheller,Medium,307.65
+Drumheller,Small,255.03
+Dunmore,Large,405.83
+Eckville,Large,253.09
+Eckville,Medium,301.75
+Eckville,Small,335.57
+Edmonton,Large,351.08
+Edmonton,Medium,317.58
+Edmonton,Small,362.59
+Edson,Medium,198.97
+Enchant,Medium,254.42
+Fairview,Large,191.16
+Fairview,Medium,207.17
+Falher,Medium,130.86
+Forestburg,Medium,132.81
+Forestburg,Small,66.84
+Fort Macleod,Large,231.86
+Fort Macleod,Medium,294.23
+Fort McMurray,Large,281.85
+Fort McMurray,Medium,262.29
+Fort McMurray,Small,170.91
+Fort Saskatchewan,Large,267.56
+Fort Vermilion,Medium,187.15
+Fox Creek,Large,314.67
+Fox Creek,Medium,197.16
+Galahad,Large,66.74
+Girouxville,Large,95.59
+Grande Cache,Large,111.39
+Grande Cache,Medium,157.8
+Grande Prairie,Large,280.91
+Grande Prairie,Medium,301.39
+Grande Prairie,Small,291.29
+Grassy Lake,Large,286.11
+Grassy Lake,Medium,164.47
+Gregoire Lake Estates,Large,362.9
+Grimshaw,Large,176.55
+Grimshaw,Medium,196.95
+Hanna,Large,143.79
+Hanna,Medium,216.55
+Hardisty,Large,160.1
+Harvie Heights,Medium,943.37
+Harvie Heights,Small,1051.4
+Hays,Large,210.93
+Heisler,Medium,153.41
+Heritage Pointe,Large,825.69
+High Level,Large,301.7
+High Level,Medium,199.91
+High Prairie,Large,178.53
+High Prairie,Medium,208.84
+High River,Large,384.31
+High River,Medium,422.1
+Hinton,Large,299.34
+Hinton,Medium,321.34
+Hughenden,Medium,88.4
+Hythe,Medium,101.66
+Innisfail,Large,372
+Innisfail,Medium,410.17
+Innisfree,Large,479.78
+Innisfree,Medium,426.01
+Irma,Medium,251.81
+Iron Springs,Medium,277.69
+Irricana,Medium,397.15
+Irvine,Medium,927.42
+Jarvis Bay,Large,509.43
+Jasper,Medium,481.1
+Kathyrn,Large,625.28
+Killam,Medium,150.21
+Kitscoty,Large,133.83
+Kitscoty,Medium,212.93
+La Crete,Large,272.97
+La Crete,Medium,270.19
+La Glace,Medium,356.54
+Lac La Biche,Large,293.88
+Lac La Biche,Medium,249.13
+Lac La Biche,Small,298.95
+Lacombe,Large,337.65
+Lacombe,Medium,315.92
+Lacombe,Small,433.6
+Lake Newell Resort,Large,377.67
+Lake Newell Resort,Medium,398.67
+Langdon,Large,344.89
+Langdon,Medium,513.37
+Leduc,Large,284.57
+Lethbridge,Large,353.62
+Lethbridge,Medium,359.89
+Lethbridge,Small,356.07
+Lloydminster,Large,320.38
+Lloydminster,Medium,287.16
+Lloydminster,Small,158.14
+Lyalta,Large,414.93
+Magrath,Medium,78.15
+Manning,Large,347.05
+Manning,Medium,219.66
+Marie Reine,Large,35.21
+Marie Reine,Medium,204.17
+Marwayne,Medium,149.66
+Mayerthorpe,Medium,202.78
+Medicine Hat,Large,296.01
+Medicine Hat,Medium,335.21
+Medicine Hat,Small,270.63
+Milk River,Large,142.73
+Milk River,Medium,157.84
+Minburn,Medium,117.66
+Munson,Medium,133.84
+Nampa,Large,171.48
+Nampa,Medium,111.97
+New Norway,Small,121.6
+Nobleford,Large,385.01
+Norglenwold,Large,439.59
+North Star,Medium,239.36
+Notikewin,Large,516.15
+Notikewin,Medium,230
+Okotoks,Large,426.23
+Okotoks,Medium,431.1
+Olds,Large,426.93
+Olds,Medium,345.23
+Olds,Small,229.34
+Oyen,Large,314.43
+Oyen,Medium,204.22
+Parkland Beach,Medium,497.43
+Peace River,Large,236.45
+Peace River,Medium,228.87
+Peace River,Small,148.15
+Penhold,Medium,301.08
+Picture Butte,Medium,367.24
+Pincher Creek,Large,343.51
+Pincher Creek,Medium,277.36
+Plamondon,Medium,248.78
+Ponoka,Large,118.13
+Ponoka,Medium,199.22
+Ponoka,Small,312.5
+Priddis Greens,Large,532.52
+Provost,Large,198.19
+Rainbow Lake,Medium,62.54
+Raymond,Medium,503.41
+Red Deer,Large,375.69
+Red Deer,Medium,330.45
+Red Deer,Small,253.34
+Red Earth Creek,Medium,134.87
+Redcliff,Large,391.3
+Redcliff,Medium,335.2
+Redwater,Medium,282.32
+Rimbey,Medium,349.83
+Robb,Medium,298.58
+Rochon Sands,Medium,529.8
+Rocky Mountain House,Large,196.11
+Rocky Mountain House,Medium,251.75
+Rocky Mountain House,Small,172.24
+Rolling Hills,Medium,195.45
+Rosebud,Small,658.33
+Rural Athabasca County,Large,45.38
+Rural Athabasca County,Medium,336.99
+Rural Athabasca County,Small,419.84
+Rural Big Lakes County,Large,220.54
+Rural Big Lakes County,Medium,393.77
+Rural Bonnyville M.D.,Large,427.07
+Rural Camrose County,Large,389.45
+Rural Camrose County,Medium,392.24
+Rural Clearwater County,Large,410.87
+Rural Clearwater County,Medium,649.09
+Rural Cypress County,Large,472.47
+Rural Cypress County,Medium,505.79
+"Rural Fairview No. 136, M.D. of",Large,743.2
+"Rural Fairview No. 136, M.D. of",Medium,283.3
+"Rural Fairview No. 136, M.D. of",Small,268.92
+Rural Foothills County,Large,901.74
+Rural Foothills County,Medium,1930.32
+"Rural Forty Mile No. 8, County of",Large,365.94
+"Rural Grande Prairie No. 1, County of",Large,455.25
+"Rural Grande Prairie No. 1, County of",Medium,293.29
+"Rural Greenview No. 16, M.D. of",Medium,252.17
+Rural Kneehill County,Medium,507.8
+Rural Lac La Biche County,Medium,281.84
+Rural Lac Ste. Anne County,Medium,356.41
+Rural Lacombe County,Large,550.47
+Rural Lacombe County,Medium,374.98
+Rural Leduc County,Large,322.86
+"Rural Lesser Slave River No. 124, M.D. of",Large,315.69
+Rural Lethbridge County,Large,697.09
+Rural Lethbridge County,Medium,623.72
+Rural Mackenzie County,Large,365.88
+Rural Mackenzie County,Medium,327.05
+Rural Mountain View County,Medium,546.24
+"Rural Northern Lights, County of",Large,291.44
+"Rural Northern Lights, County of",Medium,270.58
+Rural Northern Sunrise County,Large,258.35
+Rural Northern Sunrise County,Medium,280.58
+"Rural Opportunity No. 17, M.D. of",Medium,291.3
+"Rural Paintearth No. 18, County of",Medium,390.31
+Rural Parkland County,Large,437.37
+Rural Parkland County,Medium,295.63
+"Rural Peace No. 135, M.D. of",Large,264.88
+"Rural Peace No. 135, M.D. of",Medium,356.27
+"Rural Pincher Creek No. 9, M.D. of",Large,324.54
+Rural Ponoka County,Large,374.16
+Rural Ponoka County,Medium,416.94
+Rural Ponoka County,Small,589.12
+Rural Red Deer County,Large,579.1
+Rural Red Deer County,Medium,426.37
+Rural Rocky View County,Large,692.97
+Rural Rocky View County,Medium,881.65
+Rural Saddle Hills County,Medium,342.76
+"Rural Smoky River No. 130, M.D. of",Large,259.19
+"Rural Smoky River No. 130, M.D. of",Medium,270.59
+Rural Starland County,Large,399.94
+Rural Starland County,Medium,494.22
+"Rural Stettler No. 6, County of",Large,299.5
+"Rural Stettler No. 6, County of",Medium,251.26
+Rural Strathcona County,Large,369.34
+"Rural Taber, M.D. of",Large,458.72
+"Rural Taber, M.D. of",Medium,382.36
+"Rural Vermilion River, County of",Large,250.26
+"Rural Vermilion River, County of",Medium,420.23
+"Rural Wainwright No. 61, M.D. of",Large,298.79
+"Rural Wainwright No. 61, M.D. of",Medium,478.4
+Rural Wetaskiwin County,Large,493.84
+"Rural Willow Creek No. 26, M.D. of",Medium,409.5
+Rural Woodlands County,Large,357.78
+Rural Woodlands County,Medium,324.57
+Rural Yellowhead County,Large,235.32
+Rural Yellowhead County,Medium,451.39
+Ryley,Medium,247.6
+Sandy Lake,Large,162.76
+Saprae Creek,Large,383.74
+Sedgewick,Medium,109.79
+Sexsmith,Large,278.89
+Shaughnessy,Small,225.21
+Sherwood Park,Large,327.45
+Sherwood Park,Medium,473.92
+Slave Lake,Large,197.69
+Spirit River,Medium,121.09
+Springbrook,Medium,239
+Spruce Grove,Large,285.54
+Spruce Grove,Medium,305.73
+St. Albert,Large,335.4
+St. Albert,Medium,362.41
+St. Isidore,Medium,264.99
+St. Paul Town,Medium,234.52
+Stavely,Large,169.62
+Stettler,Medium,226.29
+Stony Plain,Medium,224.27
+Strathmore,Large,366.39
+Strathmore,Medium,377.14
+Sunbreaker Cove,Large,351.68
+Swan Hills,Large,52.73
+Swan Hills,Medium,88.07
+Sylvan Lake,Large,373.66
+Sylvan Lake,Medium,385.16
+Sylvan Lake,Small,477.5
+Taber,Medium,333.58
+Tees,Large,278.26
+Three Hills,Medium,305.88
+Tilley,Medium,133.33
+Trochu,Small,156.09
+Two Hills,Large,260.12
+Valleyview,Large,199.44
+Valleyview,Medium,387.18
+Vauxhall,Medium,228.27
+Vegreville,Small,302.08
+Vermilion,Large,204.75
+Vermilion,Medium,210.64
+Viking,Large,310.53
+Viking,Medium,122.35
+Vulcan,Medium,347.23
+Wabasca,Large,89.2
+Wabasca,Medium,171.38
+Wainwright,Large,247.27
+Wainwright,Medium,315.89
+Walsh,Large,152.03
+Warner,Large,209.1
+Wedgewood,Large,370.65
+Wedgewood,Medium,364.31
+Wembley,Large,263.42
+White Sands,Medium,395.69
+Whitecourt,Large,216.5
+Whitecourt,Medium,263.15
+Whitelaw,Medium,102.71
+Whitelaw,Small,202.18
+Widewater,Medium,501.46
+Youngstown,Medium,133.33
+Zama City,Large,143.94
